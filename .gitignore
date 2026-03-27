@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+venv/
+.env/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Dados
+*.csv
+*.xlsx
+*.parquet
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
