@@ -17,6 +17,7 @@ As atividades práticas são implementadas utilizando bibliotecas como:
 NumPy
 SciPy
 Matplotlib (quando aplicável)
+
 👨‍🏫 Docente
 
 Disciplina ministrada pelo Prof. Dr. Luiz Leduino
